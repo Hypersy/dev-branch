@@ -1,3 +1,1 @@
-# stepik.atc
-Home work's 
-Перв
+# Home work's
